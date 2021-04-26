@@ -1,0 +1,4 @@
+Django==3.2
+gunicorn==19.9.0
+Jinja2==2.11.3
+Pillow==8.2.0
