@@ -1,7 +1,7 @@
 # zuri-django-blog
 https://zuriblogsample.herokuapp.com/
 A python django blogging application inplementation.
-##Features
+## Features
 - User Registration
 - User login
 - Users can post blog articles, read articles, update, and delete their articles
