@@ -1,4 +1,4 @@
-# zuri-django-blog
+# MINI-BLOG-APPLCIATION
 https://zuriblogsample.herokuapp.com/
 A python django blogging application inplementation.
 ## Features
@@ -8,3 +8,6 @@ A python django blogging application inplementation.
 - Users can not delete another user articles except the admin (super user)
 - Anonymous users can view articles but can not post, edit or delete articles
 Visit Linke here  https://zuriblogsample.herokuapp.com/
+
+## Technology Used
+- Python, Django, SQLITE3
